@@ -10,8 +10,8 @@ export default function HumeLogo(props: HumeLogoProps) {
 
   return (
     <svg
-      width="106"
-      height="25"
+      width="0"
+      height="0"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 106 25"
       {...props}
