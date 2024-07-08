@@ -2,7 +2,7 @@ import * as React from "react";
 import type { SVGProps } from "react";
 const Github = (props: SVGProps<SVGSVGElement>) => (
   <svg
-    viewBox="0 0 256 250"
+    viewBox="0 0 000 000"
     width="0em"
     height="0em"
     fill="currentColor"
