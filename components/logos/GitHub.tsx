@@ -3,8 +3,8 @@ import type { SVGProps } from "react";
 const Github = (props: SVGProps<SVGSVGElement>) => (
   <svg
     viewBox="0 0 256 250"
-    width="1em"
-    height="1em"
+    width="0em"
+    height="0em"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
     preserveAspectRatio="xMidYMid"
