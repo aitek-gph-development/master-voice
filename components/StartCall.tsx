@@ -44,7 +44,7 @@ export default function StartCall() {
                     stroke={"currentColor"}
                   />
                 </span>
-                <span>Call AitekPH EVI</span>
+                <span>Call Aitek</span>
               </Button>
             </motion.div>
           </AnimatePresence>
