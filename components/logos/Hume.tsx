@@ -13,7 +13,7 @@ export default function HumeLogo(props: HumeLogoProps) {
       width="0"
       height="0"
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 106 25"
+      viewBox="0 0 000 00"
       {...props}
     >
       <path
